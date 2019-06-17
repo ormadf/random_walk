@@ -12,7 +12,7 @@ GUI is written with tkinter package
 
 Usage:
 start the program from the command line :
-  python gui_randwalk.py
+  python gui_randwalk1.py
 
 In the GUI:
 Non-returning random walk:
@@ -27,5 +27,9 @@ Self-Avoiding Random Walk:
   Choose self-awoiding walk from the menu
   choose number of steps
   choose number of attempts
+
+SAW1 file contains the code for self avoiding walk on 2D lattice
+NR random walk 2D and 3D are codes for non-returning random walk
+for 2 and 3 dimentional lattices
 
 
